@@ -27,4 +27,7 @@ console.log("Namaskar");
 console.log("2+3");
 console.log(eval(2+5));
 
+console.log("learning javascript");
+console.log("learning Html,css,js,Redux");
+
 
